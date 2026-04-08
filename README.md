@@ -1,6 +1,6 @@
 # React + Vite
 
-### 🔗 [Live Demo](https://rock-paper-scissors-game-kq9kpau7h.vercel.app)
+### 🔗 [Live Demo](https://rock-paper-scissors-game-three-bice.vercel.app)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
